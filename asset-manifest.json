@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/instacard/static/css/main.2c6279a8.chunk.css",
+    "main.js": "/instacard/static/js/main.17277de3.chunk.js",
+    "main.js.map": "/instacard/static/js/main.17277de3.chunk.js.map",
+    "runtime-main.js": "/instacard/static/js/runtime-main.d43ea0d4.js",
+    "runtime-main.js.map": "/instacard/static/js/runtime-main.d43ea0d4.js.map",
+    "static/js/2.f6fa8e44.chunk.js": "/instacard/static/js/2.f6fa8e44.chunk.js",
+    "static/js/2.f6fa8e44.chunk.js.map": "/instacard/static/js/2.f6fa8e44.chunk.js.map",
+    "static/js/3.c3be9ee6.chunk.js": "/instacard/static/js/3.c3be9ee6.chunk.js",
+    "static/js/3.c3be9ee6.chunk.js.map": "/instacard/static/js/3.c3be9ee6.chunk.js.map",
+    "index.html": "/instacard/index.html",
+    "static/css/main.2c6279a8.chunk.css.map": "/instacard/static/css/main.2c6279a8.chunk.css.map",
+    "static/js/2.f6fa8e44.chunk.js.LICENSE.txt": "/instacard/static/js/2.f6fa8e44.chunk.js.LICENSE.txt",
+    "static/media/chevron-down-solid.8777fc25.svg": "/instacard/static/media/chevron-down-solid.8777fc25.svg",
+    "static/media/heart-regular.adf306df.svg": "/instacard/static/media/heart-regular.adf306df.svg",
+    "static/media/heart-solid.d377e772.svg": "/instacard/static/media/heart-solid.d377e772.svg",
+    "static/media/share-alt-solid.0fe4dae1.svg": "/instacard/static/media/share-alt-solid.0fe4dae1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d43ea0d4.js",
+    "static/js/2.f6fa8e44.chunk.js",
+    "static/css/main.2c6279a8.chunk.css",
+    "static/js/main.17277de3.chunk.js"
+  ]
+}
